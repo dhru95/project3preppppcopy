@@ -108,18 +108,7 @@ app.controller('HomeController', ['$scope', function($scope) {
 	
 	
 	/* ADD FUNCTIONS FOR STEP 7 HERE */
-		
-	<script type="text/javascript">
-var like=0;
 
-function increase()
-{
-    like++;
-    return false;
-}</script><input type="button" onclick="increase();">
-	
-	
-	
 	
 	
 	
